@@ -1,6 +1,6 @@
 # Tempus Bioinformatics Challenge
 
-## Authro
+## Author
 Ankit Jambusaria
 
 ## Summary
